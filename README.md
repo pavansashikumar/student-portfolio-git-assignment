@@ -16,3 +16,5 @@ A simple student portfolio website created using HTML and CSS.
 - CSS3
 - Git
 - GitHub
+
+- A simple student portfolio website created using HTML, CSS, and Git.
